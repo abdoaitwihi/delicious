@@ -1,9 +1,5 @@
 @import url("https://fonts.googleapis.com/css2?family=Harmattan:wght@400;700&display=swap");
 @import url("https://fonts.googleapis.com/css2?family=Cairo:wght@200;400;600;700&display=swap");
-* {
-  font-family: "Cairo", sans-serif;
-}
-
 :root {
   /* headings */
   --h1-home: 60px;
@@ -110,7 +106,7 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: "Harmattan", sans-serif;
+  font-family: "Satisfy", sans-serif;
 }
 
 /*--------------------------------------------------------------
@@ -159,6 +155,10 @@ h6 {
   -webkit-transition: all 0.5s;
   transition: all 0.5s;
   background: rgba(26, 24, 22, 0.8);
+  color: rgba(255, 255, 255, 0.7);
+}
+
+#topbar a {
   color: rgba(255, 255, 255, 0.7);
 }
 
