@@ -1,0 +1,9 @@
+@import url("https://fonts.googleapis.com/css2?family=Harmattan:wght@400;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Cairo:wght@200;400;600;700&display=swap");
+
+$mainFont: "Cairo", sans-serif;
+$specialFont: "Harmattan", sans-serif;
+
+* {
+   font-family: $mainFont;
+}
