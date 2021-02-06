@@ -1061,7 +1061,7 @@ section {
   position: relative;
   z-index: 3;
   font-weight: 700;
-  color: var(--c-primary-light-2);
+  color: var(--c-primary);
 }
 
 .menu .menu-content span {
