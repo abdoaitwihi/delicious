@@ -10,10 +10,10 @@
   --h5-size: 16px;
   --h6-size: 16px;
   /* paragraphs */
-  --para1-size: 18px;
-  --para2-size: 16px;
-  --para3-size: 14px;
-  --para4-size: 12px;
+  --para1-size: 16px;
+  --para2-size: 14px;
+  --para3-size: 12px;
+  --para4-size: 10px;
   /* colors */
   --c-primary: #e04386;
   --c-primary-light: #fd82b1;
@@ -35,10 +35,10 @@
     --h5-size: 16px;
     --h6-size: 16px;
     /* paragraphs */
-    --para1-size: 16px;
-    --para2-size: 14px;
-    --para3-size: 13px;
-    --para4-size: 12px;
+    --para1-size: 14px;
+    --para2-size: 12px;
+    --para3-size: 10px;
+    --para4-size: 8px;
   }
   .first {
     -webkit-box-ordinal-group: 2;
